@@ -9,6 +9,6 @@ def countdown
   counter -= 1
 
 if counter == 0
-  return 
+  return "HAPPY NEW YEAR!"
   end
 end
